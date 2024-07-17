@@ -35,7 +35,7 @@ Para ejecutar esta aplicación localmente, sigue los siguientes pasos:
 
 1. Clona el repositorio:
     ```bash
-    git clone <[URL del repositorio](https://github.com/FreilinBetances/EJERCICIOS-1.1-1.2)>
+    git clone <(https://github.com/FreilinBetances/EJERCICIOS-1.1-1.2)>
     cd half-stack-app
     ```
 
